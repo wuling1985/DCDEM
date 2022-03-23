@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list id="7a386fb8-aa5d-4bd9-93f9-47f5991dc188" name="second changelist" comment="" />
+    <list default="true" readonly="true" id="f8843de5-a6bc-4e5d-ad71-c37bd8c7539f" name="Default" comment="上传用于实验的人工数据集以及真实数据集">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/hanming.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DCDEM.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/birth" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/birth/birthdeath.t01.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/birth/birthdeath.t02.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/birth/birthdeath.t03.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/birth/birthdeath.t04.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/birth/birthdeath.t05.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/birth/birthdeath.t06.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/birth/birthdeath.t07.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/expand" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/expand/expand.t01.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/expand/expand.t02.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/expand/expand.t03.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/expand/expand.t04.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/expand/expand.t05.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/expand/expand.t06.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/expand/expand.t07.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/sizes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/sizes/S1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/sizes/S2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/sizes/S3.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/sizes/S4.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/sizes/S5.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/sizes/S6.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/sizes/S7.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/sizes/S8.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/switch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/switch/switch.t01.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/switch/switch.t02.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/switch/switch.t03.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/switch/switch.t04.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/switch/switch.t05.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/switch/switch.t06.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/artificial network/switch/switch.t07.edges" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t100.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t60.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t61.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t62.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t63.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t64.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t65.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t66.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t67.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t68.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t69.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t70.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t71.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t72.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t73.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t74.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t75.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t76.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t77.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t78.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t79.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t80.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t81.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t82.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t83.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t84.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t85.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t86.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t87.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t88.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t89.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t90.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t91.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t92.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t93.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t94.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t95.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t96.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t97.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t98.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/as733/as_t99.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/dynamic" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/dynamic/enron_t1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/dynamic/enron_t2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/dynamic/enron_t3.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/dynamic/enron_t4.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/dynamic/enron_t5.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/dynamic/enron_t6.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/dynamic/enron_t7.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Input/dynamic/enron_t8.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/dynamic" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/GreMod_community_1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/GreMod_community_2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/GreMod_community_3.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/GreMod_community_4.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/GreMod_community_5.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/GreMod_community_6.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/GreMod_community_7.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/birthdeath.t01.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/birthdeath.t02.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/birthdeath.t03.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/birthdeath.t04.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/birthdeath.t05.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/birthdeath.t06.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/birthdeath.t07.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/cs1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/cs2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/cs3.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/cs4.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/cs5.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/cs6.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/cs7.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/expand.t01.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/expand.t02.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/expand.t03.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/expand.t04.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/expand.t05.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/expand.t06.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/expand.t07.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/switch.t01.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/switch.t02.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/switch.t03.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/switch.t04.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/switch.t05.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/switch.t06.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Output/groundTruth/switch.t07.comm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/as.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/calmod.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/transform.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/transform2.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/DBLINK.iml" afterPath="$PROJECT_DIR$/.idea/DBLINK.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/DBLC.py" afterPath="$PROJECT_DIR$/DBLC.py" />
+      <change beforePath="$PROJECT_DIR$/EDCO.py" afterPath="$PROJECT_DIR$/EDCO.py" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/community_1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/community_2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/community_3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/community_4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/community_5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/community_6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/community_7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/network_u1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/network_u2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/network_u3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/network_u4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/network_u5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/network_u6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S1/network_u7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/community_1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/community_2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/community_3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/community_4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/community_5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/community_6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/community_7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/network_u1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/network_u2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/network_u3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/network_u4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/network_u5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/network_u6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S2/network_u7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/community_1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/community_2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/community_3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/community_4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/community_5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/community_6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/community_7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/network_builder.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/network_u1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/network_u2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/network_u3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/network_u4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/network_u5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/network_u6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S3/network_u7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/community_1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/community_2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/community_3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/community_4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/community_5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/community_6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/community_7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/network_builder.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/network_u1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/network_u2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/network_u3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/network_u4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/network_u5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/network_u6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S4/network_u7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/community_1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/community_2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/community_3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/community_4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/community_5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/community_6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/community_7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/network_builder.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/network_u1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/network_u2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/network_u3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/network_u4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/network_u5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/network_u6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S5/network_u7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/community_1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/community_2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/community_3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/community_4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/community_5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/community_6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/community_7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/network_builder.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/network_u1.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/network_u2.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/network_u3.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/network_u4.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/network_u5.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/network_u6.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Input/artificial network/S6/network_u7.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S1/community_1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S1/community_2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S1/community_3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S1/community_4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S1/community_5.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S1/community_6.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S1/community_7.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Output/S6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cal_nmi.py" afterPath="$PROJECT_DIR$/cal_nmi.py" />
+      <change beforePath="$PROJECT_DIR$/edge.py" afterPath="$PROJECT_DIR$/edge.py" />
+      <change beforePath="$PROJECT_DIR$/transformCommunitie.py" afterPath="$PROJECT_DIR$/transformCommunitie.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/EDCO$EDCO.coverage" NAME="EDCO Coverage Results" MODIFIED="1540799465766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EDCO$DBLC.coverage" NAME="DBLC Coverage Results" MODIFIED="1528950646263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EDCO$cal_nmi.coverage" NAME="cal_nmi Coverage Results" MODIFIED="1541334007602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EDCO$DCDEM.coverage" NAME="DCDEM Coverage Results" MODIFIED="1541391679232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EDCO$transformCommunitie.coverage" NAME="transformCommunitie Coverage Results" MODIFIED="1528768979309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DBLINK" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="transform.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/transform.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>classfied</find>
+      <find>10</find>
+      <find>\</find>
+      <find>print</find>
+      <find>329</find>
+      <find>8</find>
+      <find>12</find>
+      <find>5</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>0</replace>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cal_nmi.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/DBLC.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/EDCO.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/edge.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/transformCommunitie.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dblink.py" />
+        <option value="$PROJECT_DIR$/DBLink_v2.py" />
+        <option value="$PROJECT_DIR$/Input/network.txt" />
+        <option value="$PROJECT_DIR$/Input/example.txt" />
+        <option value="$PROJECT_DIR$/test1.ipynb" />
+        <option value="$PROJECT_DIR$/DBLink.py" />
+        <option value="$PROJECT_DIR$/IDBLINK.py" />
+        <option value="$PROJECT_DIR$/DBLINK_version2.py" />
+        <option value="$PROJECT_DIR$/calulateNMI.py" />
+        <option value="$PROJECT_DIR$/Real_Output/dolphins1.txt" />
+        <option value="$PROJECT_DIR$/Input/example" />
+        <option value="$PROJECT_DIR$/../比赛思路.txt" />
+        <option value="$PROJECT_DIR$/evaluate_NMI.py" />
+        <option value="$PROJECT_DIR$/LFM.py" />
+        <option value="$PROJECT_DIR$/Output/originDB/community_u2_epson0.10_u3.dat" />
+        <option value="$PROJECT_DIR$/Output/originDB/cal_nmi.py" />
+        <option value="$PROJECT_DIR$/COPRA_Results/mydataset/run.py" />
+        <option value="$PROJECT_DIR$/COPRA_Results/mydataset/cal_nmi.py" />
+        <option value="$PROJECT_DIR$/Standart_Results/cal_nmi.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/Evaluate Results/cal_nmi.py" />
+        <option value="$PROJECT_DIR$/CPM_results/cal_nmi.py" />
+        <option value="$PROJECT_DIR$/DBLINK_copy.py" />
+        <option value="$PROJECT_DIR$/DBLINK_v1.py" />
+        <option value="$PROJECT_DIR$/Output/karate/copar/run.py" />
+        <option value="$PROJECT_DIR$/Output/Football/run.py" />
+        <option value="$PROJECT_DIR$/Output/dolphins/copra/run.py" />
+        <option value="$PROJECT_DIR$/Input/artificial network/S_N/run.py" />
+        <option value="$PROJECT_DIR$/Input/real network/CA-CondMat.txt" />
+        <option value="$PROJECT_DIR$/Input/real network/CA-GrQc.txt" />
+        <option value="$PROJECT_DIR$/Output/temp/community_u2_epson0.10.txt" />
+        <option value="$PROJECT_DIR$/Input/real network/Wiki-Vote.txt" />
+        <option value="$PROJECT_DIR$/Input/artificial network/S_om/S1/run.py" />
+        <option value="$PROJECT_DIR$/Input/artificial network/S_u/run.py" />
+        <option value="$PROJECT_DIR$/CPM.py" />
+        <option value="$PROJECT_DIR$/origin_DBLINK.py" />
+        <option value="$PROJECT_DIR$/DBL.py" />
+        <option value="$PROJECT_DIR$/DBLINK.py" />
+        <option value="$PROJECT_DIR$/Input/test.txt" />
+        <option value="$PROJECT_DIR$/CalEQ.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9acb9741-3f95-4d16-9440-6fafb5a94b91/console.sql" />
+        <option value="$PROJECT_DIR$/transformCommunitie.py" />
+        <option value="$PROJECT_DIR$/DBLC.py" />
+        <option value="$PROJECT_DIR$/edge.py" />
+        <option value="$PROJECT_DIR$/cal_nmi.py" />
+        <option value="$PROJECT_DIR$/Input/dynamic/enron_inc_2.txt" />
+        <option value="$PROJECT_DIR$/transform2.py" />
+        <option value="$PROJECT_DIR$/calmod.py" />
+        <option value="$PROJECT_DIR$/EDCO.py" />
+        <option value="$PROJECT_DIR$/transform.py" />
+        <option value="$PROJECT_DIR$/DCDEM.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1362" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyStringFormatInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EDCO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDCO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDCO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDCO" type="462c0819:PsiDirectoryNode" />
+              <item name="Input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDCO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDCO" type="462c0819:PsiDirectoryNode" />
+              <item name="Input" type="462c0819:PsiDirectoryNode" />
+              <item name="artificial network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EDCO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EDCO" type="462c0819:PsiDirectoryNode" />
+              <item name="Input" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\SVN_CHECKOUT\ceb\EDCO\Input\artificial network\sizes" />
+      <recent name="H:\SVN_CHECKOUT\ceb\EDCO" />
+      <recent name="H:\SVN_CHECKOUT\ceb\EDCO\Input\as733" />
+      <recent name="H:\SVN_CHECKOUT\ceb\EDCO\Output\groundTruth" />
+      <recent name="H:\SVN_CHECKOUT\ceb\EDCO\Input\artificial network\expand" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\SVN_CHECKOUT\ceb\EDCO\Input\artificial network\switch" />
+      <recent name="H:\SVN_CHECKOUT\ceb\EDCO\Output\S1" />
+      <recent name="H:\PythonWorkStation\EDCO\Input\test dataset" />
+      <recent name="C:\Users\hanming\Desktop\DBLINKV6\Output\Football" />
+      <recent name="C:\Users\hanming\Desktop\DBLINK\COPRA_Results\mydataset" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.DCDEM">
+    <configuration name="DCDEM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBLINK" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DCDEM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="EDCO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBLINK" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EDCO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBLINK" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="calmod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBLINK" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calmod.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="transform" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBLINK" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transform.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="transform2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBLINK" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transform2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBLINK" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBLINK" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DBLINK" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.DCDEM" />
+      <item index="1" class="java.lang.String" itemvalue="Python.transform" />
+      <item index="2" class="java.lang.String" itemvalue="Python.transform2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.calmod" />
+      <item index="4" class="java.lang.String" itemvalue="Python.EDCO" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.DCDEM" />
+        <item index="1" class="java.lang.String" itemvalue="Python.transform" />
+        <item index="2" class="java.lang.String" itemvalue="Python.EDCO" />
+        <item index="3" class="java.lang.String" itemvalue="Python.calmod" />
+        <item index="4" class="java.lang.String" itemvalue="Python.transform2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing" cleanupOnStartRun="true">
+    <configuration>C:\Users\hanming\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="H:\SVN_CHECKOUT\ceb\EDCO" />
+          <option name="myCopyRoot" value="H:\SVN_CHECKOUT\ceb\EDCO" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="H:\SVN_CHECKOUT\ceb\EDCO" />
+          <option name="myCopyRoot" value="H:\SVN_CHECKOUT\ceb\EDCO" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8843de5-a6bc-4e5d-ad71-c37bd8c7539f" name="Default" comment="" />
+      <created>1505093589014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505093589014</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updating_Strategy 部分">
+      <created>1526633802110</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526633802111</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DBLC 初步完成">
+      <created>1526980404111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526980404111</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DBLC 初步完成">
+      <created>1527045564102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527045564102</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790446" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.42754662" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" x="24" y="235" width="1318" height="298" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.05490405" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="856" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31012657" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.32244468" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="90" y="232" width="1664" height="669" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4538545" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12539515" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20042644" sideWeight="0.48076922" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27564895" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2609375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1421875" sideWeight="0.5192308" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5841477" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18682505" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32681867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.42754662" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" x="24" y="235" width="1318" height="298" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31355932" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12625538" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20364584" sideWeight="0.4862843" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3273305" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22306526" sideWeight="0.5137157" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50635594" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852808" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="部分DBLC算法的实现" />
+    <MESSAGE value="Updating_Strategy 部分" />
+    <MESSAGE value="DBLC 初步完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="DBLC 初步完成" />
+    <option name="CHANGE_BROWSER_SETTINGS">
+      <map>
+        <entry key="svn">
+          <value>
+            <ChangeBrowserSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="51" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transform2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input/dynamic/enron_t4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input/dynamic/enron_t1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCDEM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+            <element signature="e#2036#2555#0" expanded="false" />
+            <element signature="e#2595#2683#0" expanded="false" />
+            <element signature="e#3219#3315#0" expanded="false" />
+            <element signature="e#3572#3821#0" expanded="false" />
+            <element signature="e#5756#6066#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calmod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EDCO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6003">
+          <caret line="261" column="23" lean-forward="false" selection-start-line="261" selection-start-column="23" selection-end-line="261" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalEQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cal_nmi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCDEM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6693">
+          <caret line="330" column="40" lean-forward="false" selection-start-line="330" selection-start-column="40" selection-end-line="330" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+            <element signature="e#2036#2555#0" expanded="false" />
+            <element signature="e#2595#2683#0" expanded="false" />
+            <element signature="e#3219#3315#0" expanded="false" />
+            <element signature="e#3572#3821#0" expanded="false" />
+            <element signature="e#5756#6066#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calmod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EDCO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5888">
+          <caret line="261" column="23" lean-forward="false" selection-start-line="261" selection-start-column="23" selection-end-line="261" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cal_nmi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalEQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cal_nmi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalEQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input/as733/as_t60.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EDCO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="261" column="23" lean-forward="false" selection-start-line="261" selection-start-column="23" selection-end-line="261" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calmod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DCDEM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="358" column="0" lean-forward="false" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+            <element signature="e#2036#2555#0" expanded="false" />
+            <element signature="e#2595#2683#0" expanded="false" />
+            <element signature="e#3219#3315#0" expanded="false" />
+            <element signature="e#3572#3821#0" expanded="false" />
+            <element signature="e#5756#6066#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input/dynamic/enron_t1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input/dynamic/enron_t4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transform2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
